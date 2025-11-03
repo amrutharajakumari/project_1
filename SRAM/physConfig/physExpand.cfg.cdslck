@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      iiitdmk
+HostName                       cad18
+ProcessIdentifier              11956
+ProcessCreationTime_UTC        1762074582
+ProcessCreationTime_Readable   Sun Nov  2 14:39:42 2025 IST
+AppIdentifier                  /home/install/IC618/tools.lnx86/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/iiitdmk/6T_SRAM_/SRAM/physConfig/physExpand.cfg
+TimeEditLocked                 Sun Nov  2 14:40:18 2025 IST
